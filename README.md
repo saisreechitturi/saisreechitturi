@@ -7,8 +7,6 @@
 
 ## About Me
 
-<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="350" />
-
 Hello! I'm **Sai Sree Chitturi**, a passionate **Full Stack Web Developer**, currently pursuing my Master's in Computer Science at [University of Texas at Arlington](https://www.uta.edu/) in Arlington, Texas.  
 
 I specialize in building **smart and scalable web & mobile applications** that combine clean architecture, responsive design, and modern technologies. I love working across both frontend and backend systems to deliver seamless user experiences and efficient solutions.
@@ -24,12 +22,12 @@ I specialize in building **smart and scalable web & mobile applications** that c
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Programming Languages
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🎨 Frontend & Mobile Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,6 +47,7 @@ I specialize in building **smart and scalable web & mobile applications** that c
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
