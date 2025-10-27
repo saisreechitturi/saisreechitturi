@@ -17,7 +17,6 @@ I specialize in building **smart and scalable web & mobile applications** that c
 - 🌱 I’m continuously learning **React**, **Node.js**, **Next.js**, and **AWS deployment**  
 - 👯 I’m looking to collaborate on **innovative web and mobile applications**  
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Express**, and **MongoDB**
-- 📫 Reach me at **[saisreechitturi1234@gmail.com](mailto:saisreechitturi1234@gmail.com)**
 
 ## 🚀 Tech Stack & Skills
 
@@ -64,7 +63,7 @@ I specialize in building **smart and scalable web & mobile applications** that c
 
 ### 🏢 Enterprise Tools
 ![Azure Boards](https://img.shields.io/badge/Azure_Boards-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-FF0000?style=for-the-badge&logo=servicenow&logoColor=white
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FF0000?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -72,6 +71,10 @@ I specialize in building **smart and scalable web & mobile applications** that c
 ## Connect with Me
 
 <p align="center">
+  <!-- Email -->
+  <a target="_blank" href="mailto:saisreechitturi1234@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
   <!-- LinkedIn -->
   <a target="_blank" href="https://www.linkedin.com/in/saisreechitturi/">
     <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -79,9 +82,5 @@ I specialize in building **smart and scalable web & mobile applications** that c
   <!-- GitHub -->
   <a target="_blank" href="https://github.com/saisreechitturi">
     <img src="https://img.shields.io/badge/🐱%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Email -->
-  <a target="_blank" href="mailto:saisreechitturi1234@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </p>
