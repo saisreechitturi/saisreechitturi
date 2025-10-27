@@ -63,11 +63,11 @@ I specialize in building **smart and scalable web & mobile applications** that c
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🏢 Enterprise Tools
-![ServiceNow](https://img.shields.io/badge/ServiceNow-FF0000?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Azure Boards](https://img.shields.io/badge/Azure_Boards-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FF0000?style=for-the-badge&logo=servicenow&logoColor=white
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Connect with Me
 
