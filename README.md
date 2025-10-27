@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm **Sai Sree Chitturi**, a passionate **Full Stack Developer**, currently pursuing my Master's in Computer Science at [University of Texas at Arlington](https://www.uta.edu/) in Arlington, Texas.  
+Hello! I'm **Sai Sree Chitturi**, a passionate **Full Stack Developer**, currently pursuing my Master's in Computer Science at [University of Texas at Arlington](https://www.uta.edu/). 
 
 I specialize in building **smart and scalable web & mobile applications** that combine clean architecture, responsive design, and modern technologies. I love working across both frontend and backend systems to deliver seamless user experiences and efficient solutions.
 
