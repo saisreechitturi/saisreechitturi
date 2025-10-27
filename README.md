@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Sai Sree Chitturi! 👋
+
+<p>
+  <img src="https://img.shields.io/badge/Lives-Dallas,%20Texas,%20USA-blue" alt="Lives in Dallas, Texas, USA" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Telugu-brightgreen" alt="Languages: English & Telugu" />
+</p>
 
 <!--
 **saisreechitturi/saisreechitturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Hi there, I'm Nikhila Koneru! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 Here are some ideas to get you started:
 
